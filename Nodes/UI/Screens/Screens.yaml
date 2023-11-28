@@ -33,3 +33,8 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 15.0
+    - Name: Increment
+      Type: BaseDataVariableType
+      DataType: Double
+      ModellingRule: Optional
+      Value: 5.0
