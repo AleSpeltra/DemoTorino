@@ -37,4 +37,4 @@ Children:
       Type: BaseDataVariableType
       DataType: Double
       ModellingRule: Optional
-      Value: 5.0
+      Value: 20.0
